@@ -1,7 +1,7 @@
 # Scalable-PaaS-for-video-streaming
 
 # System Architecture
-![System Architecture](images/Archiecture_Diagram.png)
+![System Architecture](images/Architecture_Diagram.png)
 
 # Cloud Infrastructure Design
 ![Cloud Design](images/Cloud_Infrastructure_Design.png)
