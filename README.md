@@ -1,5 +1,5 @@
 # Scalable-PaaS-for-video-streaming
-
+A platform for video streaming services that offers high availability through auto scaling and load forecasting.
 # System Architecture
 ![System Architecture](images/Architecture_Diagram.png)
 
